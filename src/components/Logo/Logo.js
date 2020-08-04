@@ -11,6 +11,6 @@ const Logo = () => {
         </Tilt>
       </div>
   );
-}
+};
 
 export default Logo;
